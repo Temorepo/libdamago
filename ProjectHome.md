@@ -1,0 +1,1 @@
+Collection of useful as3 functions including navigation mesh pathfinding.
